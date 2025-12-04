@@ -5,7 +5,7 @@ A simple ATM simulation program in C++ demonstrating PIN authentication, balance
 -PIN authentication<br>
 -Shows current balance<br>
 -Withdrawal with validation<br>
--Proper success & error messages<br>
+-Proper success & error messages<br><br>
 📚 **Learning Goals** <br>
 -Conditional statements<br>
 -User input handling<br>
